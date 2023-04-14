@@ -19,7 +19,7 @@ header {
     text-align: center;
     background-image: linear-gradient(to bottom, #5ec481, #298551, #184b2e);
     min-width: 300px;
-    
+    max-width: auto;
     
 }
 
